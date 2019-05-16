@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400i,500,600,700,800');
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+}
+
+div {
+  display: block !important;
+}
+
+h1 {
+  font-size: 2.2em;
+  font-weight: 600;
+}
+
+.header {
+  width: 400px;
+}
+
+.heraderImg {
+  width: 400px;
+}
+
+.container {
+  width: 400px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.home {
+  padding: 10px;
+}
+
+p {
+  color: #666666;
+}
+
+.beerBlock {
+  border-bottom: 1px solid #c0c0c0;
+}
+
+.contributedBy {
+  font-weight: 600;
+}
+
+.smallBeerImg {
+  height: 100px;
+  width: auto;
+}
